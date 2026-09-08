@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="30%" valign="top" align="center">
-      <img src="https://github.com/water-sashuishui.png" width="180" alt="Zixu Song" />
+      <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/zixu-song-github-avatar.jpg" width="180" alt="Zixu Song" />
       <br /><br />
       <sub><b>AI APPLICATION ENGINEER</b><br />BUSINESS × SYSTEMS × AI</sub>
     </td>
