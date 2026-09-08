@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title>Zixu Song — AI Application Engineer</title>
+  <desc>A dark AI systems dashboard header for Zixu Song.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e2a3b" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop stop-color="#36f1cd" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#7aa2ff" stop-opacity=".25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="#090f1a"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity=".75"/>
+  <rect x="30" y="30" width="1140" height="300" rx="12" fill="#0d1625" stroke="#22324a"/>
+  <rect x="30" y="30" width="6" height="300" rx="3" fill="url(#edge)"/>
+  <circle cx="72" cy="74" r="7" fill="#36f1cd"/>
+  <text x="91" y="80" fill="#8ea6c8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="2">SYSTEM / ONLINE</text>
+  <text x="72" y="145" fill="#f3f7ff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">ZIXU SONG</text>
+  <text x="74" y="181" fill="#36f1cd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="3">AI APPLICATION ENGINEER</text>
+  <line x1="72" y1="210" x2="1128" y2="210" stroke="#22324a"/>
+  <text x="72" y="257" fill="#cdd9ed" font-family="Arial, Helvetica, sans-serif" font-size="23">Understand the problem. Design the system. Make AI useful.</text>
+  <text x="72" y="299" fill="#7992b4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">$ business-context  →  system-design  →  practical-delivery</text>
+  <text x="1008" y="299" fill="#36f1cd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">READY_01</text>
+</svg>
