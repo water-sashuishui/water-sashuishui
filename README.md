@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/system-header.svg" alt="Zixu Song — AI Application Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/system-header.svg" alt="Zixu Song — AI Application Engineer" width="100%" />
 </p>
 
 <p align="center">
