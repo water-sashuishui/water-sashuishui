@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" role="img" aria-labelledby="title desc">
+  <title id="title">Closed-source applied work card</title>
+  <desc id="desc">A discreet card describing closed-source applied work without revealing client details.</desc>
+  <defs>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#36f1cd"/></linearGradient>
+    <pattern id="field" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 38H38V0" fill="none" stroke="#303858" stroke-width="1" opacity=".35"/></pattern>
+  </defs>
+  <rect width="820" height="520" rx="24" fill="#0d1020"/>
+  <rect width="820" height="520" rx="24" fill="url(#field)"/>
+  <rect x="25" y="24" width="770" height="472" rx="17" fill="#111426" fill-opacity=".92" stroke="#48436c"/>
+  <path d="M25 481H795" stroke="url(#rim)" stroke-width="4"/>
+  <g transform="translate(58 62)">
+    <rect width="46" height="36" rx="7" fill="#2a2446" stroke="#9a82da"/>
+    <path d="M13 17H33M17 17V11C17 5 29 5 29 11V17M12 17V29H34V17" fill="none" stroke="#d0c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="58" y="139" fill="#cbbcff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="3">APPLIED WORK // PRIVATE BY DESIGN</text>
+  <text x="58" y="209" fill="#eff2ff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">CLOSED-SOURCE</text>
+  <text x="58" y="252" fill="#9facce" font-family="Arial, Helvetica, sans-serif" font-size="22">Problem framing, trade-offs, and delivery</text>
+  <text x="58" y="283" fill="#9facce" font-family="Arial, Helvetica, sans-serif" font-size="22">can be discussed without exposing sensitive work.</text>
+  <g transform="translate(58 332)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="1.3">
+    <rect width="206" height="43" rx="7" fill="#1c2440" stroke="#5c6fa9"/><text x="20" y="27" fill="#b8c8ff">PROBLEM FRAMING</text>
+    <rect x="220" width="180" height="43" rx="7" fill="#20203b" stroke="#796eae"/><text x="240" y="27" fill="#d5c9ff">TRADE-OFFS</text>
+    <rect x="414" width="173" height="43" rx="7" fill="#123039" stroke="#3c9189"/><text x="435" y="27" fill="#8ff0dc">DELIVERY</text>
+  </g>
+  <text x="58" y="443" fill="#667795" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="2">NO CLIENT DATA · NO PRIVATE SOURCE · NO SENSITIVE CONTEXT</text>
+</svg>
