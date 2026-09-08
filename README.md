@@ -1,29 +1,49 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/system-header.svg" alt="Zixu Song — AI Application Engineer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=water-sashuishui&amp;label=PROFILE+VIEWS&amp;color=36f1cd&amp;style=flat" alt="Profile views" />
 </p>
+
+<table>
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <img src="https://github.com/water-sashuishui.png" width="180" alt="Zixu Song" />
+      <br /><br />
+      <sub><b>AI APPLICATION ENGINEER</b><br />BUSINESS × SYSTEMS × AI</sub>
+    </td>
+    <td width="70%" valign="top">
+      <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/identity-terminal.svg" width="100%" alt="Zixu Song identity terminal" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  Bridging business logic and technology — turning real-world requirements into practical AI systems.
+  <code>BUSINESS CONTEXT</code> &nbsp;→&nbsp; <code>EVIDENCE</code> &nbsp;→&nbsp; <code>AI SYSTEMS</code> &nbsp;→&nbsp; <code>HUMAN REVIEW</code>
 </p>
 
-## System thinking
-
-I work where business context meets engineering decisions: clarify the real problem, choose the smallest useful system, and build an AI workflow people can actually use and evaluate.
-
-<p align="center">
-  <code>BUSINESS CONTEXT</code> &nbsp;→&nbsp; <code>SYSTEM DESIGN</code> &nbsp;→&nbsp; <code>PRACTICAL DELIVERY</code>
-</p>
+Bridging business logic and technology — I clarify the real problem, balance requirements with engineering choices, and turn complex needs into practical AI systems.
 
 ## Featured system
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <a href="https://github.com/water-sashuishui/FinAudit-Graph">
+        <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/finaudit-card.svg" width="100%" alt="FinAudit Graph system card" />
+      </a>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/system-map.svg" width="100%" alt="Evidence trajectory system map" />
+    </td>
+  </tr>
+</table>
 
 ### [FinAudit-Graph](https://github.com/water-sashuishui/FinAudit-Graph)
 
 An end-to-end financial audit and compliance review assistant that connects document processing, retrieval, graph reasoning, AI workflows, and review automation.
 
-- Orchestrates auditable workflows with LangGraph and LangChain.
-- Grounds risk analysis in RAG with Chroma and relationship traversal in Neo4j.
-- Delivers API and operator-facing entry points with FastAPI and Streamlit.
-- Includes local evaluation coverage and privacy / prompt-injection safeguards.
+- Orchestrates traceable workflows with LangGraph and LangChain.
+- Grounds risk analysis with RAG in Chroma and relationship traversal in Neo4j.
+- Provides API and operator-facing entry points with FastAPI and Streamlit.
+- Includes local evaluation coverage plus privacy and prompt-injection safeguards.
 
 ## Capabilities
 
@@ -32,6 +52,17 @@ An end-to-end financial audit and compliance review assistant that connects docu
 </p>
 
 ## Selected closed-source work
+
+<table>
+  <tr>
+    <td width="48%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=water-sashuishui&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1625&amp;title_color=36F1CD&amp;icon_color=7AA2FF&amp;text_color=CDD9ED&amp;rank_icon=github" alt="GitHub statistics" />
+    </td>
+    <td width="52%" valign="top">
+      <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/closed-source-card.svg" width="100%" alt="Selected closed-source work" />
+    </td>
+  </tr>
+</table>
 
 Some applied work remains closed-source by design. I can discuss problem framing, system trade-offs, delivery approach, and lessons learned without exposing client information, code, or sensitive data.
 
