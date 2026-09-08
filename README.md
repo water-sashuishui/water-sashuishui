@@ -53,16 +53,9 @@ An end-to-end financial audit and compliance review assistant that connects docu
 
 ## Selected closed-source work
 
-<table>
-  <tr>
-    <td width="48%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=water-sashuishui&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1625&amp;title_color=36F1CD&amp;icon_color=7AA2FF&amp;text_color=CDD9ED&amp;rank_icon=github" alt="GitHub statistics" />
-    </td>
-    <td width="52%" valign="top">
-      <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/closed-source-card.svg" width="100%" alt="Selected closed-source work" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/water-sashuishui/water-sashuishui/main/assets/closed-source-card.svg" width="100%" alt="Selected closed-source work" />
+</p>
 
 Some applied work remains closed-source by design. I can discuss problem framing, system trade-offs, delivery approach, and lessons learned without exposing client information, code, or sensitive data.
 
